@@ -1,2 +1,2 @@
 ﻿# SenacProjetos
-[VSCWebsite](\VSCWebsite)
+[VSCWebsite](VSCWebsite)
