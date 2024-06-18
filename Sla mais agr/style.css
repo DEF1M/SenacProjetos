@@ -1,0 +1,32 @@
+.botao-massa {
+    position: relative;
+    bottom: -20px;
+    right: -30px;
+}
+
+.conteudo-sla {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 300px;
+    height: 200px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+img {
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 300px;
+    height: 200px;
+    max-width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 20px;
+    left: 50%;    
+}

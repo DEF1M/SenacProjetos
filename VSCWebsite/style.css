@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Wingdings';
+    src: url(Fonts/Wingdings-Regular-Font.ttf);
+}
+
+@font-face {
+    font-family: 'Comic Sans';
+    src: url(Fonts/comic-sans/COMICSANS.TTF);
+}
+
+@font-face {
+    font-family: 'PAPYRUS';
+    src: url(Fonts/PAPYRUS.TTF);
+}
+
+#banner {
+    color: #FFFFFF;
+    width: 80%;
+    height: 369px;
+}
+
+h1 {
+    font: bold;
+    font-family: 'PAPYRUS';
+    text-align: center;
+    background-color: rgb(255, 255, 0);
+    background-image: url(Media/bingus\ call.gif);
+    font-size: 69px;
+    color: rgb(255, 255, 255);
+}
+
+.root {
+    font-family: 'Comic Sans';
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+#wing {
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Wingdings';
+    color: rgb(100, 0, 100);
+}
+
+.prosconslist {
+    font-style: italic;
+    background-color: rgb(113, 0, 113);
+    display: inline-block;
+}
