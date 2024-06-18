@@ -13,6 +13,17 @@
     src: url(Fonts/PAPYRUS.TTF);
 }
 
+header {
+    background-color: #004;
+    padding: 20px, 0;
+}
+
+header div.caixa h1 img,
+main ul img {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
 #banner {
     color: #FFFFFF;
     width: 80%;
