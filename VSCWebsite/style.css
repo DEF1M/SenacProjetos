@@ -24,13 +24,42 @@ main ul img {
     filter: invert(1);
 }
 
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+nav a:hover {
+    color: #FF0;
+    text-decoration: underline;
+}
+
 #banner {
     color: #FFFFFF;
     width: 80%;
     height: 369px;
 }
 
-h1 {
+#bander {
     font: bold;
     font-family: 'PAPYRUS';
     text-align: center;
